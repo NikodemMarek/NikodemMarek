@@ -10,3 +10,6 @@ projects
 - [Rust implementation of LC-3 emulator](https://github.com/NikodemMarek/lc3-rust)
 - [Simple tool to sync clipboards](https://github.com/NikodemMarek/clipboard-sync)
 - [Compiler fo my custom language (under development)](https://github.com/NikodemMarek/nilang)
+
+---
+You are [here](https://nikodemmarek.github.io/NikodemMarek)
