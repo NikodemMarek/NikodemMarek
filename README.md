@@ -11,5 +11,8 @@ projects
 - [Simple tool to sync clipboards](https://github.com/NikodemMarek/clipboard-sync)
 - [Compiler fo my custom language (under development)](https://github.com/NikodemMarek/nilang)
 
+I love nix (I even forked it)
+- https://github.com/NikodemMarek/nixpkgs
+
 ---
 You are [here](https://nikodemmarek.github.io/NikodemMarek)
