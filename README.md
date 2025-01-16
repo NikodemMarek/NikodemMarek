@@ -13,6 +13,7 @@ projects
 
 I love nix (I even forked it)
 - https://github.com/NikodemMarek/nixpkgs
+- [nix article](https://www.usenix.org/legacy/events/lisa04/tech/full_papers/dolstra/dolstra.pdf)
 
 ---
 You are [here](https://nikodemmarek.github.io/NikodemMarek)
