@@ -1,9 +1,15 @@
 Why are you still using Windows, when Nix exists?
 
 ### Check out my
+
+cv
+- [Website](https://nikodemmarek.github.io/cv/)
+- [PDF](https://nikodemmarek.github.io/cv/CV.pdf)
+- [Repository](https://github.com/NikodemMarek/cv)
+
 configs
-- [My system configuration in Nix](https://github.com/NikodemMarek/dotfiles)
-- [My neovim configuration in Nix](https://github.com/NikodemMarek/neovim)
+- [System configuration in Nix](https://github.com/NikodemMarek/dotfiles)
+- [Neovim configuration in Nix](https://github.com/NikodemMarek/neovim)
 - [Layout for my Sweep keyboard (ZMK)](https://github.com/NikodemMarek/zmk-config)
 
 projects
