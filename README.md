@@ -2,10 +2,9 @@ Why are you still using Windows, when Nix exists?
 
 ### Check out my
 
-#### cv
-- [Website](https://nikodemmarek.github.io/cv/)
-- [PDF](https://nikodemmarek.github.io/cv/CV.pdf)
-- [Repository](https://github.com/NikodemMarek/cv)
+#### [CV](https://nikodemmarek.github.io/cv/) | [PDF](https://nikodemmarek.github.io/cv/CV.pdf)
+
+#### [blog](nikodemmarek.github.io/blog)
 
 #### configs
 - [Kubernetes manifests for my home cluster](https://github.com/NikodemMarek/infra)
