@@ -7,8 +7,7 @@ Why are you still using Windows, when Nix exists?
 #### [blog](https://nikodemmarek.github.io/blog)
 
 #### configs
-- [Kubernetes manifests for my home cluster](https://github.com/NikodemMarek/infra)
-- [System configuration in Nix](https://github.com/NikodemMarek/dotfiles)
+- [System configuration in Nix & Kubernetes manifests for my home cluster](https://github.com/NikodemMarek/infra)
 - [Neovim configuration in Nix](https://github.com/NikodemMarek/neovim)
 - [Layout for my Sweep keyboard (ZMK)](https://github.com/NikodemMarek/zmk-config)
 
